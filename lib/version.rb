@@ -1,5 +1,5 @@
 module ArgonTheme
   module Rails
-    VERSION = '0.0.5'
+    VERSION = '6.0.0'
   end
 end
