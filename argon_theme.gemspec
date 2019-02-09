@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = 'argon-theme'
-  s.version = '0.0.2'
+  s.version = '0.0.5'
   s.summary = %q{Integrates argon theme in project with the Rails asset pipeline}
   s.description = %q{Theme for yout projetc}
   s.authors = ['Allef Gomes de Almeida']
