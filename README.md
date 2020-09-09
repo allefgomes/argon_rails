@@ -7,7 +7,7 @@ Argon Rails is a gem for installing the argon theme in your rails project
 You need to follow these steps:
 ```bash
     # Gemfile
-    gem 'argon-theme', git: 'git@github.com:a113f/argon_rails.git'
+    gem 'argon-theme', git: 'https://github.com/allefgomes/argon_rails.git'
 
     # application.js
     //= require argon
